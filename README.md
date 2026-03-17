@@ -117,3 +117,5 @@ The capital of France is Paris.
 In photosynthesis, plants absorb sunlight to produce glucose (food).
 
 RESULT: 
+Thus, the prompt input in different AI platforms and compare them is completed successfully
+
